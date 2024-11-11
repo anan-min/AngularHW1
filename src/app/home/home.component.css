@@ -1,8 +1,3 @@
-.brand-logo {
-  width: 100px; /* Set the width */
-  height: auto; /* Maintain the aspect ratio */
-}
-
 .results {
   display: grid;
   column-gap: 14px;
